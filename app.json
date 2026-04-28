@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "name": "",
+  "id": "12345678-1234-1234-1234-123456789012",
+  "name": "ESQUEMA",
   "publisher": "DAVID APARICIO (APAWARE)",
   "version": "1.0.0.0",
   "brief": "",
@@ -15,8 +15,8 @@
   "screenshots": [],
   "idRanges": [
     {
-      "from": ,
-      "to": 
+      "from": 50000,
+      "to": 99999
     }
   ],
   "resourceExposurePolicy": {
@@ -30,8 +30,8 @@
     "TranslationFile", "GenerateCaptions"
   ],
   "supportedLocales": ["en-US", "es-ES", "es-ES_tradnl"],
-  "platform": "1.0.0.0",
-  "application": "XX.0.0.0",
-  "runtime": "XX.0",
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "runtime": "13.0",
   "target": "Cloud"
 }
