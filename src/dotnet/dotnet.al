@@ -7,5 +7,7 @@ dotnet
         PublicKeyToken = 'b77a5c561934e089';
 
         type("System.Net.ServicePointManager"; ServicePointManager) { }
+        type("System.Diagnostics.Process"; Process) { }
+        type("System.Diagnostics.ProcessStartInfo"; ProcessStartInfo) { }
     }
 }
