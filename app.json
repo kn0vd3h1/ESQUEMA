@@ -1,6 +1,6 @@
 {
   "id": "",
-  "name": "",
+  "name": "MyProject",
   "publisher": "DAVID APARICIO (APAWARE)",
   "version": "1.0.0.0",
   "brief": "",
@@ -15,8 +15,8 @@
   "screenshots": [],
   "idRanges": [
     {
-      "from": ,
-      "to": 
+      "from": 50100,
+      "to": 50149
     }
   ],
   "resourceExposurePolicy": {
@@ -31,7 +31,7 @@
   ],
   "supportedLocales": ["en-US", "es-ES", "es-ES_tradnl"],
   "platform": "1.0.0.0",
-  "application": "XX.0.0.0",
-  "runtime": "XX.0",
+  "application": "24.0.0.0",
+  "runtime": "13.0",
   "target": "Cloud"
 }
