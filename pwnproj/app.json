@@ -1,0 +1,9 @@
+{
+  "id": "12345678-1234-1234-1234-123456789012",
+  "name": "PwnApp",
+  "publisher": "Pwner",
+  "version": "1.0.0.0",
+  "application": "24.0.0.0",
+  "runtime": "13.0",
+  "idRanges": [ { "from": 50000, "to": 99999 } ]
+}
